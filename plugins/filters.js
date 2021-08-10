@@ -120,7 +120,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '91860759500@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['fuck','ivan yatha','line undo','Nokk','Kanjav','Broken','broken','Dance','dance','nokk','thuglife','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Rashmika','thanks','Hi','sad','don','Bot','nee','Girl','Jaada','Zara','Hero','Poli','bye','ara','Goodnight','kittilla','Mm','Msd','Njan','nirtheda','parupadi','pm','poda','podi','song','va','Aysheri','ha','set','Comady','Uploding','mathi','e','Ponu','Hlo','Ara','vazha','Eda']
+const array = ['fuck','ivan yatha','line undo','Nokk','Kanjav','Broken','broken','Dance','dance','nokk','thuglife','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Rashmika','thanks','Hi','sad','don','Bot','nee','Girl','Jaada','Zara','Hero','Poli','bye','ara','Goodnight','kittilla','Mm','Msd','Njan','nirtheda','parupadi','pm','poda','podi','song','va','Aysheri','ha','set','Comady','Uploding','mathi','e','Ponu','Hlo','Ara','vazha','Eda','help']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
