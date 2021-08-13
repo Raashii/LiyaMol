@@ -1,16 +1,16 @@
 <div align="center">
-raashii & joker ser
+Ajmal-Pro
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/XjDC6sP/IMG-20210731-WA0008.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Panda.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Zara" src="https://img.shields.io/badge/-Zara-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Panda" src="https://img.shields.io/badge/-Panda-blue?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Raashii"><img title="Author" src="https://img.shields.io/badge/Author-Raashii/Zara?color=red&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ajmal-Pro"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Pro/Panda?color=red&style=for-the-badge&logo=github"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> & <a href="https://github.com/J0kerser">JOKER SER</a> to make it public
+Project created by <a href="https://github.com/Ajmal-Pro">Ajmal-Pro</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,13 +24,13 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> & <a href="h
 
 
   <p align="center">
-  <a href="httsp://github.com/Raashii/Zara">
-    <img src="https://img.shields.io/github/repo-size/Raashii/Zara?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Ajmal-Pro/Panda">
+    <img src="https://img.shields.io/github/repo-size/Ajmal-Pro/Panda?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Raashii?color=blue&style=flat-square"></a>
-<a href="https://github.com/Raashii/Zara/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Raashii/Zara?color=blue&style=flat-square"></a>
-<a href="https://github.com/Raashii/Zara/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Raashii/Zara?color=blue&style=flat-square"></a>
-<a href="https://github.com/Raashii/Zara/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Raashii/Zara?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajmal-Pro/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal-Pro?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajmal-Pro/Panda/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Pro/Panda?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajmal-Pro/Panda/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajmal-Pro/Panda?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajmal-Pro/Panda/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajmal-Pro/Panda?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -51,7 +51,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raashii/Zara)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Pro/Panda)
      </div>
 <br>
 <br >
@@ -74,12 +74,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![JOKERSER](https://i.ibb.co/XjDC6sP/IMG-20210731-WA0008.jpg)](https://github.com/J0kerser) |  
+  [![JOKERSER](https://i.ibb.co/XjDC6sP/images (4).jpeg)](https://github.com/J0kerser) |  
 ----|
-[ʀᴀᴀssʜɪɪ](https://github.com/Raashii) & [ᴊᴏᴋᴇʀsᴇʀ](https://github.com/J0kerser) |
+[ʀᴀᴀssʜɪɪ](https://github.com/Ajmal-Pro) & [ᴊᴏᴋᴇʀsᴇʀ](https://github.com/J0kerser) |
 Base, Bug Fixes, Modules | 
-  
-    
-
-
-
