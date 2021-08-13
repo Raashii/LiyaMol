@@ -1,5 +1,6 @@
 <div align="center">
 NOT USE THIS BOT THIS BOT ON MAINTANCE USE OUR 
+<div align="center">
 [![VERSION 2](https://github.com/Jokerser-x-Raashii/Zaramwol)
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/XjDC6sP/IMG-20210731-WA0008.jpg" width="200" height="200"/>
